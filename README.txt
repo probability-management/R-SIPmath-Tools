@@ -16,3 +16,4 @@ testdf[i] <- HDRUniformGen(100)
 ExportSIPLib(testdf, testxml.xml, average = TRUE, median = TRUE, meta = meta)
 
 #If you find any errors, please contact aaron@probabilitymanagement.org
+#Authors: Aaron Brown, Daniel O'Neil
